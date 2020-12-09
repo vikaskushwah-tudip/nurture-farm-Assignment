@@ -1,4 +1,4 @@
-# nurture-farm-Assignment
+# nurture.farm-Assignment
 Restaurant Management System
 
 Run the DemoApplication.main() with a Java 8 runtime to start the embedded Tomcat on port 8090.
